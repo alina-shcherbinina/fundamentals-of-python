@@ -1,17 +1,17 @@
 Opening file:  <_io.TextIOWrapper name='figure1.txt' mode='r' encoding='cp1251'>
-Resolution:  0.029508196721311476
+Resolution: 0.47368421052631576
 
 Opening file:  <_io.TextIOWrapper name='figure2.txt' mode='r' encoding='cp1251'>
-Resolution:  0.014492753623188406
+Resolution:  0.1111111111111111
 
 Opening file:  <_io.TextIOWrapper name='figure3.txt' mode='r' encoding='cp1251'>
-Resolution:  0.04
+Resolution:  0.9578947368421052
 
 Opening file:  <_io.TextIOWrapper name='figure4.txt' mode='r' encoding='cp1251'>
-Resolution:  0.05181347150259067
+Resolution:  0.967741935483871
 
 Opening file:  <_io.TextIOWrapper name='figure5.txt' mode='r' encoding='cp1251'>
 Object is not found
 
 Opening file:  <_io.TextIOWrapper name='figure6.txt' mode='r' encoding='cp1251'>
-Resolution:  0.045317220543806644
+Resolution:  0.09933774834437085
