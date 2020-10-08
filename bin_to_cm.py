@@ -16,6 +16,5 @@ pixel = [s for s in array if "1" in s]
 if (len(pixel)) == 0:
     print("Object is not found")
 else:
-    
     Resolution = max_mm/len(pixel) 
     print('Resolution: ', Resolution)
